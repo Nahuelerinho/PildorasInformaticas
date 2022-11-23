@@ -4,15 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="194c7249-5d0a-46b4-8270-839d22299552" name="Changes" comment="Primera clase, hola mundo">
-      <change afterPath="$PROJECT_DIR$/src/EstructurasPrincipales/Calculos_ConMath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstructurasPrincipales/DeclaracionesOperadores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstructurasPrincipales/Manipula_Cadenas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstructurasPrincipales/Manipula_Cadenas2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstructurasPrincipales/Manipula_Cadenas3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstructurasPrincipales/Variables.java" afterDir="false" />
+    <list default="true" id="194c7249-5d0a-46b4-8270-839d22299552" name="Changes" comment="Contenidos hasta el video 14 de pildoras">
+      <change afterPath="$PROJECT_DIR$/src/EstructurasPrincipales/Acceso_aplicacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstructurasPrincipales/Adivina_Numero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstructurasPrincipales/Areas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstructurasPrincipales/Comprueba_mail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstructurasPrincipales/Entrada_Ejemplo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstructurasPrincipales/Entrada_Numeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstructurasPrincipales/Entrada_ejemplo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstructurasPrincipales/Evalua_Edad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstructurasPrincipales/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstructurasPrincipales/Peso_Ideal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstructurasPrincipales/Uso_Bucle_For.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EstructurasPrincipales/PrimeraClase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EstructurasPrincipales/PrimeraClase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,9 +56,9 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Manipula_Cadenas3">
-    <configuration name="Calculos_ConMath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EstructurasPrincipales.Calculos_ConMath" />
+  <component name="RunManager" selected="Application.Factorial">
+    <configuration name="Adivina_Numero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EstructurasPrincipales.Adivina_Numero" />
       <module name="PildorasInformaticas" />
       <extension name="coverage">
         <pattern>
@@ -65,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeclaracionesOperadores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EstructurasPrincipales.DeclaracionesOperadores" />
+    <configuration name="Comprueba_mail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EstructurasPrincipales.Comprueba_mail" />
       <module name="PildorasInformaticas" />
       <extension name="coverage">
         <pattern>
@@ -78,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Manipula_Cadenas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EstructurasPrincipales.Manipula_Cadenas" />
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EstructurasPrincipales.Factorial" />
       <module name="PildorasInformaticas" />
       <extension name="coverage">
         <pattern>
@@ -91,21 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Manipula_Cadenas2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EstructurasPrincipales.Manipula_Cadenas2" />
-      <module name="PildorasInformaticas" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="EstructurasPrincipales.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Manipula_Cadenas3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EstructurasPrincipales.Manipula_Cadenas3" />
+    <configuration name="Peso_Ideal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EstructurasPrincipales.Peso_Ideal" />
       <module name="PildorasInformaticas" />
       <extension name="coverage">
         <pattern>
@@ -130,13 +122,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Uso_Bucle_For" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EstructurasPrincipales.Uso_Bucle_For" />
+      <module name="PildorasInformaticas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EstructurasPrincipales.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Manipula_Cadenas3" />
-        <item itemvalue="Application.Manipula_Cadenas2" />
-        <item itemvalue="Application.Manipula_Cadenas" />
-        <item itemvalue="Application.Calculos_ConMath" />
-        <item itemvalue="Application.DeclaracionesOperadores" />
+        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.Comprueba_mail" />
+        <item itemvalue="Application.Uso_Bucle_For" />
+        <item itemvalue="Application.Peso_Ideal" />
+        <item itemvalue="Application.Adivina_Numero" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668687186798</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Contenidos hasta el video 14 de pildoras">
+      <created>1668816165827</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668816165827</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,6 +184,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primera clase, hola mundo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Primera clase, hola mundo" />
+    <MESSAGE value="Contenidos hasta el video 14 de pildoras" />
+    <option name="LAST_COMMIT_MESSAGE" value="Contenidos hasta el video 14 de pildoras" />
   </component>
 </project>
