@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="194c7249-5d0a-46b4-8270-839d22299552" name="Changes" comment="Contenidos hasta el video 22 de pildoras">
-      <change afterPath="$PROJECT_DIR$/src/EstructurasPrincipales/Arrays_bidimensionales.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstructurasPrincipales/Ejemplo_Array_2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstructurasPrincipales/Uso_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstructurasPrincipales/Uso_Arrays_II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/Coche.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/Furgoneta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/Uso_Empleado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/Uso_Vehiculo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="194c7249-5d0a-46b4-8270-839d22299552" name="Changes" comment="Contenidos hasta el video 45 de pildoras" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -175,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669168202348</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Contenidos hasta el video 45 de pildoras">
+      <created>1670896955618</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670896955618</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -183,7 +180,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -193,7 +202,8 @@
     <MESSAGE value="Primera clase, hola mundo" />
     <MESSAGE value="Contenidos hasta el video 14 de pildoras" />
     <MESSAGE value="Contenidos hasta el video 22 de pildoras" />
-    <option name="LAST_COMMIT_MESSAGE" value="Contenidos hasta el video 22 de pildoras" />
+    <MESSAGE value="Contenidos hasta el video 45 de pildoras" />
+    <option name="LAST_COMMIT_MESSAGE" value="Contenidos hasta el video 45 de pildoras" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
